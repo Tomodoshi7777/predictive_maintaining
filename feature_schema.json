@@ -1,0 +1,26 @@
+{
+  "model_version": "1.0.0",
+  "feature_count": 20,
+  "features": [
+    "Air temperature [K]",
+    "Process temperature [K]",
+    "Rotational speed [rpm]",
+    "Torque [Nm]",
+    "Tool wear [min]",
+    "Type_H",
+    "Type_L",
+    "Type_M",
+    "temp_diff_k",
+    "power_w",
+    "tool_wear_x_torque",
+    "risk_tier",
+    "hdf_risk_flag",
+    "strain",
+    "temp_ratio",
+    "power_per_rpm",
+    "wear_per_rpm",
+    "power_HIGH",
+    "power_LOW",
+    "power_NORMAL"
+  ]
+}

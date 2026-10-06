@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn==1.9.0
+joblib
+matplotlib
+seaborn
+statsmodels
+openpyxl
+pyodbc
+pytest
+pytest-cov
+streamlit
+plotly
+torch

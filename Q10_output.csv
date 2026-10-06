@@ -1,0 +1,4 @@
+power_cat,cnt,failures,pwf
+NORMAL,9914,253,0
+HIGH,80,80,80
+LOW,31,31,31

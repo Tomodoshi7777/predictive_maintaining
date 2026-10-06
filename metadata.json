@@ -1,0 +1,10 @@
+{
+  "model_name": "Gradient Boosting",
+  "model_version": "1.0.0",
+  "task": "binary_classification",
+  "target": "Machine failure",
+  "framework": "scikit-learn",
+  "artifact_type": "joblib",
+  "source_artifact": "03_ML/best_model.pkl",
+  "threshold": 0.5798674325544604
+}

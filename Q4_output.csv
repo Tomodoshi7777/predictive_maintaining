@@ -1,0 +1,3 @@
+status,count,avg_torque,avg_rpm,avg_wear
+FAILURE,364,51.11,1485.47,147.18
+NORMAL,9661,39.63,1540.26,106.69

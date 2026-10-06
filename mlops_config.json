@@ -1,0 +1,6 @@
+{
+  "model_name": "predictive_maintenance",
+  "model_version": "1.0.0",
+  "threshold": 0.5798674325544604,
+  "reference_data": "02_EDA_Features/ai4i2020_features_final.csv"
+}

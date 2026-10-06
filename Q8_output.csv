@@ -1,0 +1,7 @@
+failure_type,occurrences,pct,avg_wear
+HDF,115,31.59,107.2
+OSF,98,26.92,207.7
+PWF,95,26.1,101.9
+TWF,46,12.64,216.4
+MULTI,9,2.47,117.2
+RNF,1,0.27,207.0
